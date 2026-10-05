@@ -1,0 +1,1 @@
+# manual-clicker-app
